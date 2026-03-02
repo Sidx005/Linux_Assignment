@@ -54,3 +54,27 @@ cat ~/showtime.txt
 sudo systemctl stop showtime
 
 ```
+##Scripts:
+### Showtime
+```bash
+[Unit]
+Description=Show Time Every Minute
+
+[Service]
+ExecStart=/usr/local/bin/showtime.sh
+User=sigmoid
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
+```
+
+
+
+![Alt text](Screenshot From 2026-03-01 23-47-45.png)
+![Alt text](Screenshot From 2026-03-02 16-42-24.png)
+
+![alt text](Screenshot From 2026-03-02 17-02-39.png)
+
+
