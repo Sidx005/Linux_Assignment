@@ -75,6 +75,6 @@ WantedBy=multi-user.target
 ![Alt text](Screenshot From 2026-03-01 23-47-45.png)
 ![Alt text](Screenshot From 2026-03-02 16-42-24.png)
 
-![alt text](Screenshot From 2026-03-02 17-02-39.png)
+![Alt text](Screenshot From 2026-03-02 17-02-39.png)
 
 
