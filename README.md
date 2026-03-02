@@ -54,7 +54,7 @@ cat ~/showtime.txt
 sudo systemctl stop showtime
 
 ```
-##Scripts:
+## Scripts:
 ### Showtime
 ```bash
 [Unit]
